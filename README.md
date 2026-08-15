@@ -9,7 +9,7 @@
 **Key findings:**
 
 **Dashboard Overview:**
-![cafe](cafe.png)
+![cafe](cafe.jpg)
 
 # Project 2
 **Title:** Employee records: data interrogation
