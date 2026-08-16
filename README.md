@@ -5,6 +5,8 @@
 **Tools Used:** Microsoft Excel (Pivot Table, pivot chart, slicers)
 
 **Project Description:**
+
+
 Café Harmony is a café brand offering drinks, snacks, and light meals across multiple city locations. Over the past year, the business has experienced strong growth, resulting in increased customer demand, greater operational complexity, and a need for more consistent performance across its cafés. As the brand expands, management requires clearer visibility into customer behaviour, product performance, and operational efficiency to support informed decision-making.
 This project was carried out with three (3) broad objectives namely;
 1.	Analyse Café Harmony’s business data and develop a dashboard that supports managerial decision-making, 
@@ -13,6 +15,7 @@ This project was carried out with three (3) broad objectives namely;
 
 
 **Key findings:**
+
 Some of the insights gleaned from the analysis and recommended to management include but not limited to the following;
 1.	As gender and age group influences purchasing behaviour, understanding the demographic profile of each location could help Café Harmony improve demand forecasting, optimise inventory planning, and deliver more targeted sales promotions,
 2.	As a group, the café is not overly reliant on a single menu item, but subtle preferences for each location based on the gender and age distribution should inform stock inventory to prevent the likelihood of stock missed sales opportunities, and a weaker customer experience.
