@@ -25,7 +25,7 @@ Some of the insights gleaned from the analysis and recommended to management inc
 ![cafe](cafe.jpg)
 
 # Project 2
-**Title:** Employee records: data interrogation
+**Title:** Employee Success Analytics at NextGen Corp: Data Interrogation
 
 **SQL Code:** [SQL codes: DML](https://github.com/gadesoji/gadesoji.github.io/blob/main/NextGen.sql)
 
@@ -36,5 +36,8 @@ Some of the insights gleaned from the analysis and recommended to management inc
 * Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 **Project Description:**
+
+NextGen Corp. is growing quickly in competitive software and hardware markets. Although the company continues to attract top talent, it faces increasing concerns about employee turnover, uneven departmental performance, and possible pay disparities.
+To support this growth, I was assigned to lead a comprehensive, data-driven initiative focused on improving retention strategies, standardising performance measurement, and creating a fair compensation structure.
 
 **Technology used:** SQL server
