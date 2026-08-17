@@ -59,7 +59,31 @@ Some of the insights gleaned from the analysis and recommendations made include 
 
 ![Customer Report](CustomerReport.jpg)
 
+
 # Project 3
+**Title:** [Deskify Data Performance Dashboard](https://github.com/gadesoji/gadesoji.github.io/blob/main/DeskifyData.xlsx)
+
+**Tools Used:** Microsoft Excel (Pivot Table, pivot chart, slicers, timeline)
+
+**Project Description:**
+
+
+Executive Summary & Background: Deskify Data is a premier North American e-commerce retailer specializing in ergonomic office furniture, tech accessories, and everyday workspace supplies. Over the past several years, the company experienced rapid top-line growth driven by the expansion of hybrid work models. However, as the market matures and customer acquisition costs rise, leadership has initiated a comprehensive strategic transformation—a "Change Process"—to optimize operational efficiency, protect profit margins, and identify scalable growth drivers.
+While total revenue has expanded, executive leadership lacks unified visibility into historical performance. Recent shifts in customer buying habits, regional demand variations, and product profitability are obscured across disconnected transactional logs. To guide the transformation, the Chief Commercial Officer (CCO) and Operations Team require data-driven answers to define both the direction (where to invest vs. prune) and speed of travel (how aggressively to execute operational shifts).
+
+
+
+**Key findings:**
+
+Some of the insights gleaned from the analysis and recommended to management include but not limited to the following;
+1.	Corporate customers drive over 35% of revenue and 70% of orders, so their feedback should guide service improvements.
+2.	With 75% of orders shipped by Regular Air, Deskify should negotiate vendor partnerships to reduce costs.
+
+
+**Dashboard Overview:**
+![Deskify](Deskify.png)
+
+# Project 4
 **Title:** Employee Success Analytics at NextGen Corp: Data Interrogation
 
 **SQL Code:** [SQL codes: DML](https://github.com/gadesoji/gadesoji.github.io/blob/main/NextGen.sql)
