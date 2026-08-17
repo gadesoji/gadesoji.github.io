@@ -24,7 +24,42 @@ Some of the insights gleaned from the analysis and recommended to management inc
 **Dashboard Overview:**
 ![cafe](cafe.jpg)
 
+
 # Project 2
+**Title:** [NovaMed Solutions Market Analysis](https://github.com/gadesoji/gadesoji.github.io/blob/main/NovaMed%20Solutions%20Report.pbix)
+
+**Tools Used:** Power BI, DAX, Excel Power Query
+
+**Project Description:**
+
+
+NovaMed Solutions, a leading pharmaceutical distributor, faces challenges in improving sales, managing inventory, and identifying market opportunities.
+Over the past year, NovaMed Solutions has collected sales data on revenue, profit margins, drug performance, and customer demographics, creating an opportunity for analysis, trend detection, and data-driven improvements.
+To improve sales monitoring and enhance customer insights, along side this report, I developed an interactive Power BI dashboard centred on two primary areas:
+1.	Top/Bottom Analysis – This module will monitor overall sales metrics, including revenue, profit, and cost of goods sold (COGS), with month-over-month comparisons. It will also identify the best- and worst-performing drugs and customers using dynamic metrics.
+2.	Customer Analysis – This section will deliver insights into customer demographics, revenue distribution by buyer type, and purchasing behaviour. It will also feature geographical sales data, highlighting key revenue-generating regions.
+These dashboards will provide stakeholders with a comprehensive understanding of sales trends and customer engagement, facilitating informed, data-driven decision-making.
+
+
+
+**Key findings/recommendations:**
+
+Some of the insights gleaned from the analysis and recommendations made include the following;
+*	Investigate February and August revenue dips and actions to improve performance.
+*	Assess why the best-selling drug outperforms others and develop strategies to grow high-potential products.
+*	Prioritise key revenue drivers, as unit sales and revenue rankings differ significantly across products.
+*	Review the supply chain for savings through new suppliers, better terms, or bulk discounts.
+*	Improve production efficiency to reduce costs.
+*	Grow market share in other countries, as two countries generate nearly three-quarters of revenue.
+
+
+
+**Dashboard Overview:**
+![Sales Report](SalesReport.jpg)
+
+![Customer Report](CustomerReport.jpg)
+
+# Project 3
 **Title:** Employee Success Analytics at NextGen Corp: Data Interrogation
 
 **SQL Code:** [SQL codes: DML](https://github.com/gadesoji/gadesoji.github.io/blob/main/NextGen.sql)
