@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-# Project 1
+## Project 1
 **Title:** [Cafe Harmony Dashboard](https://github.com/gadesoji/gadesoji.github.io/blob/main/Cafe_Harmony.xlsx)
 
 **Tools Used:** Microsoft Excel (Pivot Table, pivot chart, slicers)
@@ -25,7 +25,7 @@ Some of the insights gleaned from the analysis and recommended to management inc
 ![cafe](cafe.jpg)
 
 
-# Project 2
+## Project 2
 **Title:** [NovaMed Solutions Market Analysis](https://github.com/gadesoji/gadesoji.github.io/blob/main/NovaMed%20Solutions%20Report.pbix)
 
 **Tools Used:** Power BI, DAX, Excel Power Query
@@ -60,7 +60,22 @@ Some of the insights gleaned from the analysis and recommendations made include 
 ![Customer Report](CustomerReport.jpg)
 
 
-# Project 3
+
+## Project 3
+**Title:** [NHS Cancer Dataset](https://github.com/gadesoji/gadesoji.github.io/blob/main/NHS_Cancer_Dataset.pbix)
+
+**Tools Used:** Power BI, DAX, Excel Power Query
+
+**Project Description:**
+
+
+This dataset was presented for to carryout some [sql](https://github.com/gadesoji/gadesoji.github.io/blob/main/CancerDataset.sql) task, decided to design a simple dashboard showing some KPIs and answering some of the sql tasks.
+**Dashboard Overview:**
+![Sales Report](CancerDataset.jpg)
+
+
+
+## Project 4
 **Title:** [Deskify Data Performance Dashboard](https://github.com/gadesoji/gadesoji.github.io/blob/main/DeskifyData.xlsx)
 
 **Tools Used:** Microsoft Excel (Pivot Table, pivot chart, slicers, timeline)
@@ -83,7 +98,7 @@ Some of the insights gleaned from the analysis and recommended to management inc
 **Dashboard Overview:**
 ![Deskify](Deskify.png)
 
-# Project 4
+## Project 5
 **Title:** Employee Success Analytics at NextGen Corp: Data Interrogation
 
 **SQL Code:** [SQL codes: DML](https://github.com/gadesoji/gadesoji.github.io/blob/main/NextGen.sql)
